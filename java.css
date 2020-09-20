@@ -1,0 +1,40 @@
+h1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+img {
+    justify-content: center;
+    text-align: center;
+    padding: 0 420px;
+    margin: 20px;
+    width: 400px;
+}
+
+button {
+    background-color: rgb(194, 3, 35);
+    color: white;
+    padding: 30px;
+    margin: 20px;
+
+}
+
+button:hover {
+    color: black;
+    cursor: pointer;
+    background-color: pink;
+
+}
+
+input {
+
+    padding: 20px;
+    width: 40;
+    font-size: 1.5em;
+    margin-left: 400px;
+    justify-content: center;
+}
